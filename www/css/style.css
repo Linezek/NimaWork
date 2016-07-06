@@ -2,6 +2,11 @@
 	maring left: 200%;
 }
 
+#pageBuild {
+	max-width: 100%;
+	height: auto;
+	margin-top: 50%;
+}
 
 #photoCalendar {
 	margin-left: 100%;
